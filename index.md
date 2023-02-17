@@ -1,4 +1,6 @@
 
+My personal portfolio of the projects I have worked on.
+
 # Project 1
 
 ## Fraud Detection
