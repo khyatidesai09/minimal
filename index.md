@@ -7,7 +7,7 @@ This is Exploratory Data Analysis for a company called Lending Club. Lending Clu
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khyatidesai09/LendingClubCaseStudy)
 
-![Case Study Related Image](./assets/img/sub_grade_univariate_categorical.png)
+![Case Study Related Image](./assets/img/sub_grade_univariate_categorical_1.png)
 
 ## Machine Learning
 ### Bike Sharing - Linear Regression
