@@ -15,3 +15,5 @@ This is Exploratory Data Analysis for a company called Lending Club. Lending Clu
 This is a machine learning project trying to solve a business problem using Multiple Linear Regression model. A US based company wants to identify factors that affected it's business before the Corana pandemic, so that they can grow the business using those factors in their favor after the pandemic. In these project, I have identified those factors using Multiple Linear Regression.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khyatidesai09/Bike-Sharing)
+
+![Case Study Related Image](./assets/img/Linear_Regression_Image_for_Portfolio.jpg)
