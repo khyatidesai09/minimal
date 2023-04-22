@@ -17,4 +17,3 @@ This is a machine learning project trying to solve a business problem using Mult
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/khyatidesai09/Bike-Sharing)
 
 ![Case Study Related Image](./assets/img/Linear_Regression_Image_for_Portfolio.jpg)
-*Img from: [https://in.pinterest.com/pin/439734351121424183/](https://in.pinterest.com/pin/439734351121424183/)*
